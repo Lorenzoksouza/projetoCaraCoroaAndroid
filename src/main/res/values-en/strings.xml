@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coin Flip</string>
+    <string name="cara">Heads</string>
+    <string name="coroa">Tails</string>
+    <string name="jogar">Play</string>
+    <string name="opcaoEscolhida">Option chosed:</string>
+    <string name="oqcaiu">What droped:</string>
+</resources>

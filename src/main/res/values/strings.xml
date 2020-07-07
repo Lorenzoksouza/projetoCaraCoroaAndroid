@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cara ou Coroa</string>
+    <string name="cara">Cara</string>
+    <string name="coroa">Coroa</string>
+    <string name="jogar">Jogar</string>
+    <string name="opcaoEscolhida">Opção Escolhida: </string>
+    <string name="oqcaiu">Que lado caiu:</string>
+</resources>
